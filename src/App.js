@@ -15,7 +15,6 @@ const App = () => {
     <Features/>
     <Possibility/>
     <CTA/>
-    <Blog/>
     <Footer/>
       
     </div>
